@@ -1,0 +1,10 @@
+[package]
+name = "student_report_card"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+printpdf = "0.4.1"
+rusttype = "0.9.3"
+anyhow = "1.0"
+
